@@ -10,7 +10,7 @@ public class CarMethods {
     }
 
     void notAvailable() {
-        System.out.println("make:" + make +" model:" + model + " year:" + year + " This Car is Available");
+        System.out.println("make:" + make +" model:" + model + " year:" + year + " This Car is not Available");
     }
 
     

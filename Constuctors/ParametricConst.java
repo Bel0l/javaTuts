@@ -8,7 +8,7 @@ public class ParametricConst {
             this.name = name;
             this.age = age;
 
-        System.err.println("this is parametric constructor");
+        System.out.println("this is parametric constructor");
     }
 
     public static void main(String[] args) {
