@@ -1,3 +1,4 @@
+package Classes;
 public class Bicycle {
 
     int cadence = 0;
@@ -47,11 +48,10 @@ public class Bicycle {
 
             bike2.changeCadence(30);
             bike2.changeGear(1);
-
+            
+            bike2.speedUp(10);
             
             bike2.changeSpeed(5);
-            bike2.speedUp(10);
-
             bike2.printStates();
         }
     }
