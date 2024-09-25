@@ -1,6 +1,6 @@
 package accessors.Bank;
 
-public class BankAccount {
+public class BankAccount  {
     private double balance;
 
     public BankAccount (double initialBalance){
